@@ -1,12 +1,12 @@
 /* Intentional Errors: Find and fix them! */
-.container {
+.container{
     margin: auto;
     padding: 20px;
     background-color: #33cc33;
     border: 2px solid #ff0000;
     text-align: center;
-    width: 50%
-    height: 50%
+    width: 50%;
+    height: 50%;
 }
 
 h1 {
@@ -19,6 +19,6 @@ p {
     margin-top: 10px;
     color: #333;
 }
-
 body {
     background-color: #f0f0f0;
+}
